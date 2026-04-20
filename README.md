@@ -1,4 +1,4 @@
-### R-GAN: A GAN-Based Framework to Improve the Robustness of Deep Neural Networks against Adversarial Attacks
+## R-GAN: A GAN-Based Framework to Improve the Robustness of Deep Neural Networks against Adversarial Attacks
 This repository contains the source code for the R-GAN framework, a GAN-based approach that improves the robustness of classifiers against adversarial attacks.
 ### Repository Structure
 - R-GAN on MNIST_Untargeted Attacks: Implementation of Single-generator R-GAN on MNIST and Fashion-MNIST against Untargeted adversarial attacks.
